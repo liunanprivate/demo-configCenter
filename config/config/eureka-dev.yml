@@ -1,0 +1,6 @@
+eureka:
+  instance: eurekacenter.apps.pas.cloud.dhc.com.cn
+  port: 8011
+  user:
+    name: user 
+    pwd: user

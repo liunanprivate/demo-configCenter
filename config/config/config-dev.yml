@@ -1,0 +1,6 @@
+config:
+  server:
+    git: 
+      user: kimsungju0404@126.com
+      pwd: Kimsungju_0211
+      label: master
